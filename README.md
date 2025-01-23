@@ -1,6 +1,6 @@
-# Music Generation with GANs
+# Music Generation with Vanilla and Wasserstein GANs
 
-This repository contains a project to generate music using a Wasserstein Generative Adversarial Network (WGAN). The model is designed to create MIDI note sequences by training a generator and discriminator in tandem.
+This repository contains a project to generate music using a Vanilla/Wasserstein Generative Adversarial Network. The model is designed to create MIDI note sequences by training a generator and discriminator in tandem.
 
 ## Features
 - **Wasserstein GAN**: Implements a WGAN for stable training of the model.
